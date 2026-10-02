@@ -1,0 +1,1111 @@
+{
+  "title": "The history of noodles",
+  "tagline": "From a 4,000-year-old bowl in China to 124 billion instant servings a year: how strands of dough were pulled, pressed, dried, fried and carried around the world.",
+  "intro": "Nobody invented the noodle once. Cooks in China, India, the Middle East and Italy each found ways to turn dough into strands, and the oldest evidence is still argued over. What changed everything was machinery: the press in Naples, the dryer, and in 1958 a pan of hot oil in a shed in Japan.",
+  "eras": [
+    {
+      "id": "grain",
+      "name": "Dough, long before recipes",
+      "from": -2000,
+      "to": 900,
+      "color": "#ffb547",
+      "summary": "A bowl of ancient strands in China, wheat 'soup cakes' in Han poems, pressed rice strings in the Tamil south and boiled dough in Palestine. The evidence is thin and often argued over."
+    },
+    {
+      "id": "roads",
+      "name": "Dried strands that travel",
+      "from": 900,
+      "to": 1700,
+      "color": "#5ce1a9",
+      "summary": "Dried pasta appears in Arabic dictionaries and in Sicily's export trade. In India a cookbook describes a press for rice strings, and a Persian cold noodle sweet moves east."
+    },
+    {
+      "id": "machines",
+      "name": "Presses, pullers and stalls",
+      "from": 1600,
+      "to": 1957,
+      "color": "#c49bff",
+      "summary": "Naples puts a press to work and pasta becomes street food. Chinese cooks carry noodles to Calcutta and Tokyo, a Lanzhou cook sells hand-pulled beef noodles, and factories learn to dry pasta in any weather."
+    },
+    {
+      "id": "instant",
+      "name": "The instant age",
+      "from": 1958,
+      "to": 1996,
+      "color": "#ff8a5c",
+      "summary": "A shed in Ikeda, Japan produces a fried noodle block that cooks in hot water. Within 30 years it is made in Indonesia, India, Nepal and far beyond."
+    },
+    {
+      "id": "global",
+      "name": "Standards, space and scrutiny",
+      "from": 1997,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Makers form a world association, noodles get an international food standard and a trip to orbit, and a recall in India shows how much depends on lab tests and labels."
+    }
+  ],
+  "events": [
+    {
+      "year": -2000,
+      "date": "c. 2000 BCE",
+      "era": "grain",
+      "art": "plate",
+      "key": true,
+      "title": "A bowl of 4,000-year-old noodles",
+      "who": "People of the Qijia culture; reported by Lu Houyuan and colleagues",
+      "where": "Lajia, Qinghai",
+      "country": "China",
+      "text": "Archaeologists found long, thin yellow strands inside an upturned bowl buried under about 3 metres of sediment. Lu Houyuan's team reported them in Nature in October 2005 as noodles made from broomcorn and foxtail millet, about 4,000 years old. Other researchers later questioned whether millet could have made them (see 2011).",
+      "why": "It is the oldest claimed physical find of noodles anywhere, and it is still debated.",
+      "box": "noodle",
+      "sources": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "year": 100,
+      "date": "c. 1st century CE (as read by K. T. Achaya)",
+      "era": "grain",
+      "art": "leaf",
+      "key": false,
+      "title": "Rice strings in the Tamil south",
+      "who": "Sangam-era poets, as read by food historian K. T. Achaya",
+      "where": "Tamil country, South India",
+      "country": "India",
+      "text": "Idiyappam is rice dough pressed into fine strings and steamed. The food historian K. T. Achaya wrote that idiyappam and appam were known in the Tamil country around the 1st century CE, going by references in Sangam literature. The dating of those poems is itself approximate, so the claim is best treated as his reading.",
+      "why": "It suggests pressed rice noodles in South India may be as old as wheat noodles in Han China.",
+      "box": "noodle",
+      "sources": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": 200,
+      "date": "c. 200 CE",
+      "era": "grain",
+      "art": "scroll",
+      "key": false,
+      "title": "A Han dictionary defines 'bing'",
+      "who": "Liu Xi, compiler of the Shiming",
+      "where": "Eastern Han China",
+      "country": "China",
+      "text": "The earliest written record of noodles in China comes from the Eastern Han period (25–220 CE). The dictionary Shiming, from about 200 CE, uses the word bing for foods made of wheat dough. Boiled strips of dough were called tang bing, which means 'soup cake'.",
+      "why": "It is the first time noodles show up in writing, as one member of a big family of dough foods.",
+      "box": "noodle",
+      "sources": [
+        4,
+        6,
+        5
+      ]
+    },
+    {
+      "year": 300,
+      "date": "c. 300 CE",
+      "era": "grain",
+      "art": "quill",
+      "key": false,
+      "title": "Shu Xi writes an ode to dough",
+      "who": "Shu Xi (c. 264 – c. 304)",
+      "where": "Western Jin China",
+      "country": "China",
+      "text": "The scholar Shu Xi wrote a long poem known as the 'Ode to Bing' or 'Rhapsody on Bing'. It lists many kinds of dough food and says which suits each season. Boiled noodles in hot broth are his choice for winter.",
+      "why": "It is one of the earliest detailed descriptions of how noodles were made and eaten.",
+      "box": "pot",
+      "sources": [
+        7,
+        6
+      ]
+    },
+    {
+      "year": 400,
+      "date": "3rd–5th centuries CE",
+      "era": "grain",
+      "art": "inkpot",
+      "key": false,
+      "title": "Itrium in Palestine, itriyya in Arabic",
+      "who": "Compilers of the Jerusalem Talmud; later the physician Isho bar Ali",
+      "where": "Palestine and Mesopotamia",
+      "country": "Palestine",
+      "text": "The Jerusalem Talmud mentions itrium, a kind of boiled dough eaten in Palestine between the 3rd and 5th centuries. In the 9th century the physician and dictionary writer Isho bar Ali defined the Arabic word itriyya as string-like shapes of semolina, dried before cooking.",
+      "why": "Bar Ali's definition is among the earliest clear descriptions of dried pasta, the kind that keeps and travels.",
+      "box": "noodle",
+      "sources": [
+        10,
+        4
+      ]
+    },
+    {
+      "year": 1025,
+      "date": "c. 1025",
+      "era": "roads",
+      "art": "gear",
+      "key": false,
+      "title": "A Kannada cookbook describes the noodle press",
+      "who": "Chavundaraya II, author of the Lokopakara (attributed)",
+      "where": "Karnataka",
+      "country": "India",
+      "text": "The Lokopakara, a Kannada text dated to about 1025, describes how to make shavige and the mould used to press it. Shavige, sevai and idiyappam are regional names for strings of rice dough pushed through small holes.",
+      "why": "It is an early written description of extruding: forcing dough through a die to shape it.",
+      "box": "shape",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1154,
+      "date": "1154",
+      "era": "roads",
+      "art": "boat",
+      "key": true,
+      "title": "Al-Idrisi sees pasta shipped from Sicily",
+      "who": "Muhammad al-Idrisi, geographer at the court of Roger II",
+      "where": "Trabia, Sicily",
+      "country": "Italy",
+      "text": "In his geography of 1154, al-Idrisi wrote that at Trabia, near Palermo, vast quantities of itriyya were made and exported everywhere. This was in Norman Sicily, more than a century before Marco Polo was born.",
+      "why": "It is the first clear record of pasta made in bulk for trade in what is now Italy.",
+      "box": "world",
+      "sources": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "year": 1600,
+      "date": "c. 16th–18th centuries (tradition)",
+      "era": "roads",
+      "art": "snowflake",
+      "key": false,
+      "title": "Faloodeh becomes falooda",
+      "who": "Persian and Mughal court cooks (attributed)",
+      "where": "Shiraz to Delhi",
+      "country": "India",
+      "text": "Faloodeh is a Persian frozen sweet of thin starch noodles in rose-water syrup, linked especially with Shiraz. Popular accounts say it reached India with Persian-speaking courts and became falooda in the Mughal period, with milk and basil seeds added later. The dates are tradition, not firm record.",
+      "why": "It shows noodles are not always savoury, and not always hot.",
+      "box": "world",
+      "sources": [
+        14,
+        15
+      ]
+    },
+    {
+      "year": 1650,
+      "date": "17th century",
+      "era": "machines",
+      "art": "gear",
+      "key": true,
+      "title": "Naples puts a press to work",
+      "who": "Neapolitan pasta makers",
+      "where": "Naples",
+      "country": "Italy",
+      "text": "In the 1600s, pasta makers in Naples began using a kneading machine and a mechanical press that pushed dough through a die. Pasta got cheaper as meat got scarcer for the poor. Neapolitans, once nicknamed 'leaf eaters', were being called 'macaroni eaters' by the 1700s.",
+      "why": "Machines turned pasta from a treat for the rich into everyday street food.",
+      "box": "shape",
+      "sources": [
+        11,
+        10,
+        13
+      ]
+    },
+    {
+      "year": 1778,
+      "date": "c. 1778",
+      "era": "machines",
+      "art": "compass",
+      "key": false,
+      "title": "A Chinese settler founds Achipur",
+      "who": "Tong Atchew (Yang Dazhao)",
+      "where": "Achipur, near Calcutta",
+      "country": "India",
+      "text": "Around 1778, Tong Atchew was granted 650 bighas of land by Governor-General Warren Hastings, at a rent of 45 rupees a year, to set up a sugar mill south of Calcutta. He died in 1783 and the settlement broke up, but his workers and later arrivals moved into the city. The place is still called Achipur.",
+      "why": "Calcutta's Chinese community grew from here, and with it the hakka noodles and 'Indian Chinese' food eaten across India today.",
+      "box": "world",
+      "sources": [
+        16,
+        17
+      ]
+    },
+    {
+      "year": 1886,
+      "date": "1827–1886",
+      "era": "machines",
+      "art": "heatwaves",
+      "key": false,
+      "title": "Family pasta firms and a dryer that beats the weather",
+      "who": "Giulia Buitoni; Pietro Barilla; Filippo De Cecco",
+      "where": "Sansepolcro, Parma and Fara San Martino",
+      "country": "Italy",
+      "text": "Giulia Buitoni opened a pasta shop in Sansepolcro in 1827. Pietro Barilla opened a bread and pasta shop in Parma in 1877. De Cecco, founded in 1886 at Fara San Martino, says Filippo De Cecco built a low-temperature hot-air dryer, so pasta no longer depended on sun and wind.",
+      "why": "Controlled drying let pasta be made anywhere, in any season, and shipped far.",
+      "box": "factory",
+      "sources": [
+        20,
+        21,
+        24,
+        22,
+        23
+      ]
+    },
+    {
+      "year": 1910,
+      "date": "1910",
+      "era": "machines",
+      "art": "building",
+      "key": false,
+      "title": "Rairaiken serves Chinese noodles in Tokyo",
+      "who": "Kan'ichi Ozaki and twelve Cantonese cooks",
+      "where": "Asakusa, Tokyo",
+      "country": "Japan",
+      "text": "Chinese noodle soups had reached Japan through Yokohama's Chinatown in the late 1800s. In 1910 Kan'ichi Ozaki opened Rairaiken in Asakusa with twelve Cantonese cooks and sold the dish as 'shina soba'. It is often called Japan's first ramen shop.",
+      "why": "It marks the start of ramen as a Japanese dish and not only a Chinese import.",
+      "box": "world",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 1915,
+      "date": "c. 1915",
+      "era": "machines",
+      "art": "string",
+      "key": false,
+      "title": "Ma Baozi sells hand-pulled beef noodles",
+      "who": "Ma Baozi (attributed)",
+      "where": "Lanzhou, Gansu",
+      "country": "China",
+      "text": "Historians often credit Ma Baozi, a Hui Muslim cook, with selling Lanzhou beef noodle soup in its modern form from about 1915. The noodles are lamian: dough stretched and folded by hand into finer and finer strands. An alkaline ingredient makes the dough stretchy. In ramen the same job is done by kansui, a mix of sodium and potassium carbonates.",
+      "why": "Hand-pulling shows what gluten can do, and alkaline water is why ramen is yellow and springy.",
+      "box": "shape",
+      "sources": [
+        26,
+        25
+      ]
+    },
+    {
+      "year": 1925,
+      "date": "1920s",
+      "era": "machines",
+      "art": "burner",
+      "key": false,
+      "title": "Eau Chew and the Chinese kitchens of Calcutta",
+      "who": "Achumpa Huang and family; later Nelson Wang in Bombay",
+      "where": "Calcutta",
+      "country": "India",
+      "text": "Eau Chew, opened in the 1920s as an eating house for Chinese migrants, is described as India's oldest family-run Chinese restaurant. Tangra grew into a second Chinatown in the same years. Cooks adjusted Cantonese and Hakka dishes to local tastes. In Bombay, Nelson Wang says he invented chicken Manchurian at the Cricket Club of India in 1975.",
+      "why": "This is the root of hakka noodles and chow mein as Indian street food.",
+      "box": "world",
+      "sources": [
+        18,
+        16,
+        17,
+        19
+      ]
+    },
+    {
+      "year": 1929,
+      "date": "October 1929",
+      "era": "machines",
+      "art": "word",
+      "key": true,
+      "title": "The Marco Polo myth is printed",
+      "who": "The Macaroni Journal, a US pasta trade magazine",
+      "where": "United States",
+      "country": "United States",
+      "text": "A story in the Macaroni Journal told how a sailor with Marco Polo found noodles in China and brought them home. It was a piece of trade publicity, but the tale stuck. Pasta was in Italy long before Polo returned in 1295: al-Idrisi described Sicily's trade in 1154, and a document from Genoa in the 1270s lists a basket of macaroni.",
+      "why": "The best-known 'fact' about noodles is a 20th-century invention.",
+      "box": "",
+      "sources": [
+        12,
+        11,
+        10
+      ]
+    },
+    {
+      "year": 1945,
+      "date": "1945–1950s",
+      "era": "machines",
+      "art": "flame",
+      "key": false,
+      "title": "Cheap wheat and ramen stalls",
+      "who": "Street vendors in occupied Japan",
+      "where": "Tokyo and other cities",
+      "country": "Japan",
+      "text": "After the war Japan had its worst rice harvest in decades. The United States supplied cheap wheat flour, and ramen stalls spread through the cities.",
+      "why": "Wheat noodles became everyday food in Japan, setting the scene for the instant kind.",
+      "box": "",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 1958,
+      "date": "25 August 1958",
+      "era": "instant",
+      "art": "burner",
+      "key": true,
+      "title": "Chicken Ramen: the first instant noodle",
+      "who": "Momofuku Ando, with his wife Masako Ando",
+      "where": "Ikeda, Osaka",
+      "country": "Japan",
+      "text": "Ando worked for about a year in a small shed behind his house in Ikeda. He is said to have got the key idea from watching his wife Masako fry tempura: hot oil drives the water out of the noodles and leaves tiny holes that let hot water back in. Nissin launched Chicken Ramen on 25 August 1958. At 35 yen it cost about six times as much as fresh noodles.",
+      "why": "Flash-frying made a cooked noodle that keeps for months and is ready in minutes.",
+      "box": "factory",
+      "sources": [
+        27,
+        28,
+        30
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "18 September 1971",
+      "era": "instant",
+      "art": "vessels",
+      "key": true,
+      "title": "Cup Noodles: the pack is the bowl",
+      "who": "Momofuku Ando and Nissin",
+      "where": "Tokyo",
+      "country": "Japan",
+      "text": "On a sales trip to the United States in 1966, Ando saw buyers break his noodles into a paper cup and eat them with a fork. Cup Noodles went on sale in September 1971. Sales were slow until February 1972, when live television of the Asama-Sanso hostage siege showed riot police eating them in the freezing cold.",
+      "why": "The cup removed the last need: a pot and a bowl.",
+      "box": "twomin",
+      "sources": [
+        27,
+        28,
+        29,
+        31
+      ]
+    },
+    {
+      "year": 1972,
+      "date": "June 1972",
+      "era": "instant",
+      "art": "plate",
+      "key": false,
+      "title": "Indomie, and later Mi Goreng",
+      "who": "PT Sanmaru Food Manufacturing; later Indofood",
+      "where": "Jakarta",
+      "country": "Indonesia",
+      "text": "Indomie was first made in June 1972, with a chicken broth flavour. In 1982 the brand launched Mi Goreng, a dry version based on Indonesian fried noodles (some accounts say 1983). Exports reached Nigeria in 1988, and a factory opened there in 1995.",
+      "why": "It showed that instant noodles could take on a local dish and then travel the world with it.",
+      "box": "world",
+      "sources": [
+        32
+      ]
+    },
+    {
+      "year": 1983,
+      "date": "1983",
+      "era": "instant",
+      "art": "metronome",
+      "key": true,
+      "title": "Maggi 2-Minute Noodles reach India",
+      "who": "Nestlé India; marketing team including Sangeeta Talwar",
+      "where": "Moga, Punjab and New Delhi",
+      "country": "India",
+      "text": "Nestlé India launched Maggi noodles in 1983 (a few business case studies say 1982). It was sold on a simple promise, '2-minute noodles', with the flavour in a separate tastemaker sachet. Instant noodles were almost unknown in India then. For years afterwards Maggi held most of the market.",
+      "why": "It turned a foreign product into an Indian habit, and 'Maggi' into a common word for instant noodles.",
+      "box": "twomin",
+      "sources": [
+        33,
+        35,
+        34
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "1984 or 1985",
+      "era": "instant",
+      "art": "mountain",
+      "key": false,
+      "title": "Wai Wai comes to Nepal",
+      "who": "Binod Chaudhary and the Chaudhary Group",
+      "where": "Kathmandu and Bangkok",
+      "country": "Nepal",
+      "text": "Wai Wai began in Thailand in 1972. Binod Chaudhary noticed travellers bringing packets home from Bangkok and struck a deal with the Thai maker for technical help. The Chaudhary Group began making Wai Wai in Nepal in 1984 or 1985: sources give both years. The noodle is already seasoned and fried, so many people eat it dry as a snack.",
+      "why": "Nepal became one of the keenest instant noodle countries, and Wai Wai is now made in India too.",
+      "box": "world",
+      "sources": [
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "year": 1991,
+      "date": "1991",
+      "era": "instant",
+      "art": "share",
+      "key": false,
+      "title": "Top Ramen arrives, and the Indian shelf fills up",
+      "who": "Indo Nissin Foods; later ITC",
+      "where": "India",
+      "country": "India",
+      "text": "Nissin, the company that invented instant noodles, entered India in 1991 with Top Ramen. ITC launched Sunfeast Yippee! in September 2010. Maggi stayed in front, but it now had rivals.",
+      "why": "Competition brought new shapes, flavours and prices to Indian instant noodles.",
+      "box": "",
+      "sources": [
+        39,
+        40
+      ]
+    },
+    {
+      "year": 1997,
+      "date": "4–5 March 1997",
+      "era": "global",
+      "art": "earth",
+      "key": false,
+      "title": "The makers form a world association",
+      "who": "Momofuku Ando and noodle makers from several countries",
+      "where": "Tokyo",
+      "country": "Japan",
+      "text": "At the first World Ramen Summit in Tokyo, makers set up the International Ramen Manufacturers Association, with Ando as its first chairman. It was later renamed the World Instant Noodles Association (WINA). It publishes the yearly count of servings eaten in each country.",
+      "why": "The industry gained a shared voice on quality and safety, and a shared set of numbers.",
+      "box": "world",
+      "sources": [
+        27,
+        29,
+        45
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "26 July 2005",
+      "era": "global",
+      "art": "rocket",
+      "key": true,
+      "title": "Instant noodles go to space",
+      "who": "Soichi Noguchi, Nissin and JAXA",
+      "where": "Space Shuttle Discovery, in orbit",
+      "country": "Japan",
+      "text": "Nissin and Japan's space agency JAXA developed Space Ram: ball-shaped noodles in a thick soup that will not float away, made to soften in water at about 70°C. Astronaut Soichi Noguchi took it on Discovery's STS-114 flight, launched on 26 July 2005. Nissin says he was the first person to eat instant noodles in space.",
+      "why": "It was Ando's last big project. He died on 5 January 2007, aged 96.",
+      "box": "twomin",
+      "sources": [
+        27,
+        42,
+        43,
+        28
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "2006",
+      "era": "global",
+      "art": "scroll",
+      "key": false,
+      "title": "A world standard for instant noodles",
+      "who": "Codex Alimentarius Commission (FAO and WHO)",
+      "where": "Rome and Geneva",
+      "country": "International",
+      "text": "The Codex Alimentarius Commission adopted the Standard for Instant Noodles, CXS 249-2006. It covers fried and non-fried instant noodles, with or without seasoning sachets, and it does not apply to pasta. It has been amended several times since.",
+      "why": "Countries now had a common reference for what an instant noodle is and how it should be tested.",
+      "box": "factory",
+      "sources": [
+        44
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "February 2011",
+      "era": "global",
+      "art": "flask",
+      "key": false,
+      "title": "The Lajia noodles are questioned",
+      "who": "Wei Ge, Li Liu, Xingcan Chen and Zhengyao Jin",
+      "where": "Hefei and Beijing",
+      "country": "China",
+      "text": "Four researchers tried to make noodles from millet and published the results in the journal Archaeometry. They reported that pure millet dough cannot be stretched into noodles, because millet has no gluten. They also argued that the millet husks and starch grains found at Lajia may not have been part of the strands at all.",
+      "why": "It keeps the oldest noodle claim open: something was in the bowl, but what it was made of is unsettled.",
+      "box": "noodle",
+      "sources": [
+        3,
+        2
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "5 June 2015",
+      "era": "global",
+      "art": "thermometer",
+      "key": true,
+      "title": "Maggi is withdrawn across India",
+      "who": "Uttar Pradesh food safety officers; FSSAI; Nestlé India",
+      "where": "Barabanki, Kolkata and New Delhi",
+      "country": "India",
+      "text": "A food inspector in Barabanki, Uttar Pradesh, sent a packet labelled 'No added MSG' for testing; press reports date the sample to March 2014. A state lab reported MSG. A referral lab in Kolkata then reported lead of about 17 parts per million, against a limit of 2.5. In early June 2015 several states banned the noodles. Nestlé India announced a withdrawal overnight on 4–5 June, saying the product was safe, and on 5 June the food regulator FSSAI ordered all nine variants recalled.",
+      "why": "It became one of the largest food recalls in India: about 38,000 tonnes were destroyed, much of it burned as fuel in cement kilns.",
+      "box": "twomin",
+      "sources": [
+        47,
+        50,
+        49,
+        54,
+        55
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "13 August – 9 November 2015",
+      "era": "global",
+      "art": "scales",
+      "key": true,
+      "title": "The court sets the ban aside, and Maggi returns",
+      "who": "Bombay High Court (Justices V. M. Kanade and B. P. Colabawalla)",
+      "where": "Mumbai",
+      "country": "India",
+      "text": "On 13 August 2015 the Bombay High Court quashed the orders of 5 and 6 June. It held that Nestlé had not been given a fair hearing and that the labs relied on were not properly accredited. It ordered fresh tests at three accredited labs, in Mohali, Hyderabad and Jaipur, within six weeks. On 16 October Nestlé India said all 90 samples had come back with lead well within the limit. Maggi went back on sale on 9 November 2015.",
+      "why": "The case turned on procedure and lab accreditation, and it led to closer attention to how food is sampled and tested.",
+      "box": "",
+      "sources": [
+        47,
+        48,
+        51,
+        52,
+        53
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "31 March 2016 and 3 January 2019",
+      "era": "global",
+      "art": "hammer",
+      "key": false,
+      "title": "A label rule and a revived claim",
+      "who": "FSSAI; Supreme Court of India; consumer affairs ministry",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "In an order dated 31 March 2016, FSSAI said no lab test can tell added MSG from the glutamate that occurs naturally in foods, and that action would follow only where a pack claims 'No MSG' and MSG is found. Separately, the government had filed a class action in 2015 at the national consumer commission (NCDRC), seeking about Rs 640 crore from Nestlé India. The Supreme Court had stayed it. On 3 January 2019 the court let it go ahead, on the basis of test reports from the CFTRI lab in Mysuru.",
+      "why": "The episode changed what Indian noodle packs say about MSG, and its legal tail ran for years.",
+      "box": "twomin",
+      "sources": [
+        57,
+        56
+      ]
+    },
+    {
+      "year": 2025,
+      "date": "2025",
+      "era": "global",
+      "art": "pixels",
+      "key": true,
+      "title": "124 billion servings in a year",
+      "who": "World Instant Noodles Association",
+      "where": "Worldwide",
+      "country": "International",
+      "text": "WINA estimates that the world ate about 124.2 billion servings of instant noodles in 2025. China with Hong Kong came first at 43.3 billion, then Indonesia at 14.5 billion. India ate about 9.6 billion, up from 7.6 billion in 2021, and Nepal about 1.6 billion.",
+      "why": "A food invented in a garden shed in 1958 is now eaten more than 300 million times a day.",
+      "box": "world",
+      "sources": [
+        45
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Oldest claimed noodles (disputed)",
+      "value": "c. 2000 BCE",
+      "who": "Lajia, Qinghai, China (Lu Houyuan and others, 2005)"
+    },
+    {
+      "label": "Earliest written record of noodles in China",
+      "value": "Eastern Han, 25–220 CE",
+      "who": "Shiming dictionary, c. 200 CE"
+    },
+    {
+      "label": "Earliest clear record of pasta made for export",
+      "value": "1154",
+      "who": "Al-Idrisi, on Trabia, Sicily"
+    },
+    {
+      "label": "Often called Japan's first ramen shop",
+      "value": "1910",
+      "who": "Rairaiken, Asakusa, Tokyo"
+    },
+    {
+      "label": "First instant noodle",
+      "value": "25 August 1958",
+      "who": "Chicken Ramen, Nissin, Japan"
+    },
+    {
+      "label": "First cup noodle",
+      "value": "September 1971",
+      "who": "Cup Noodles, Nissin, Japan"
+    },
+    {
+      "label": "Maggi noodles in India",
+      "value": "1983",
+      "who": "Nestlé India"
+    },
+    {
+      "label": "First instant noodles eaten in space",
+      "value": "July 2005",
+      "who": "Soichi Noguchi, Space Shuttle Discovery"
+    },
+    {
+      "label": "International standard for instant noodles",
+      "value": "2006",
+      "who": "Codex Alimentarius, CXS 249-2006"
+    }
+  ],
+  "people": [
+    {
+      "name": "Shu Xi",
+      "life": "c. 264 – c. 304",
+      "role": "Scholar and poet",
+      "from": "Western Jin China",
+      "note": "His 'Ode to Bing' is one of the earliest detailed descriptions of noodles and other dough foods."
+    },
+    {
+      "name": "Muhammad al-Idrisi",
+      "life": "c. 1100 – c. 1165",
+      "role": "Geographer",
+      "from": "Ceuta and Norman Sicily",
+      "note": "Recorded in 1154 that itriyya was made in bulk at Trabia and exported."
+    },
+    {
+      "name": "Giulia Buitoni",
+      "life": "19th century",
+      "role": "Pasta maker and shopkeeper",
+      "from": "Sansepolcro, Italy",
+      "note": "Opened a pasta shop in 1827 to support her family; it grew into the Buitoni company."
+    },
+    {
+      "name": "Tong Atchew (Yang Dazhao)",
+      "life": "died 1783",
+      "role": "Sugar mill owner",
+      "from": "China and Bengal",
+      "note": "Remembered as the first Chinese settler near Calcutta; Achipur is named after him."
+    },
+    {
+      "name": "Ma Baozi",
+      "life": "active c. 1915",
+      "role": "Noodle cook",
+      "from": "Lanzhou, China",
+      "note": "Credited by many historians with the modern form of Lanzhou hand-pulled beef noodles."
+    },
+    {
+      "name": "Momofuku Ando",
+      "life": "1910 – 2007",
+      "role": "Inventor and founder of Nissin",
+      "from": "Taiwan and Japan",
+      "note": "Invented instant noodles at 48 and Cup Noodles at 61, and led the makers' world association."
+    },
+    {
+      "name": "Masako Ando",
+      "life": "20th century",
+      "role": "Wife of Momofuku Ando",
+      "from": "Japan",
+      "note": "Her tempura frying is credited, in the usual telling, with giving Ando the idea of flash-frying noodles."
+    },
+    {
+      "name": "Sangeeta Talwar",
+      "life": "joined Nestlé India in 1979",
+      "role": "Marketing executive",
+      "from": "India",
+      "note": "Part of the team that introduced Maggi 2-Minute Noodles to India in 1983."
+    },
+    {
+      "name": "Binod Chaudhary",
+      "life": "born 1955",
+      "role": "Industrialist",
+      "from": "Nepal",
+      "note": "Brought Wai Wai from Thailand to Nepal in the mid-1980s and later built noodle plants in India."
+    }
+  ],
+  "series": [
+    {
+      "id": "world",
+      "title": "Instant noodles eaten in the world each year",
+      "unit": "billion servings",
+      "log": false,
+      "after": "global",
+      "caption": "World Instant Noodles Association estimates. The 2018 and 2020 figures are WINA numbers as quoted by Wikipedia and Saigoneer; 2021 to 2025 are from WINA's own table.",
+      "points": [
+        {
+          "year": 2018,
+          "value": 103.6,
+          "label": "2018: 103.6 billion"
+        },
+        {
+          "year": 2020,
+          "value": 116.6,
+          "label": "2020: 116.6 billion"
+        },
+        {
+          "year": 2021,
+          "value": 118,
+          "label": "2021: 118.0 billion"
+        },
+        {
+          "year": 2022,
+          "value": 121,
+          "label": "2022: 121.0 billion"
+        },
+        {
+          "year": 2023,
+          "value": 120.2,
+          "label": "2023: 120.2 billion"
+        },
+        {
+          "year": 2024,
+          "value": 123.3,
+          "label": "2024: 123.3 billion"
+        },
+        {
+          "year": 2025,
+          "value": 124.2,
+          "label": "2025: 124.2 billion"
+        }
+      ]
+    },
+    {
+      "id": "india",
+      "title": "Instant noodles eaten in India each year",
+      "unit": "billion servings",
+      "log": false,
+      "after": "global",
+      "caption": "World Instant Noodles Association estimates. India's demand grew by more than half between 2018 and 2025.",
+      "points": [
+        {
+          "year": 2018,
+          "value": 6.06,
+          "label": "2018: 6.06 billion"
+        },
+        {
+          "year": 2021,
+          "value": 7.56,
+          "label": "2021: 7.56 billion"
+        },
+        {
+          "year": 2022,
+          "value": 7.58,
+          "label": "2022: 7.58 billion"
+        },
+        {
+          "year": 2023,
+          "value": 8.68,
+          "label": "2023: 8.68 billion"
+        },
+        {
+          "year": 2024,
+          "value": 8.82,
+          "label": "2024: 8.82 billion"
+        },
+        {
+          "year": 2025,
+          "value": 9.6,
+          "label": "2025: 9.60 billion"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "In a survey by the Fuji Research Institute in 2000, adults in Japan named instant noodles the best Japanese invention of the 20th century. Karaoke came second.",
+    "Chinese texts once used a single word, bing, for noodles, dumplings, buns and flatbreads alike. What mattered was that they were made of wheat dough.",
+    "The last day of the Asama-Sanso siege in 1972 was shown live on Japanese television for 10 hours and 40 minutes. Viewers saw riot police eating Cup Noodles in the snow.",
+    "In 2022 UNESCO added the Pyongyang raengmyon custom, cold buckwheat noodles served in a brass bowl, to its list of intangible cultural heritage.",
+    "One common story says rice noodles began when northern Chinese wheat-eaters moved south in the Qin dynasty and made noodles from the local grain instead. It is a tradition, not a dated record.",
+    "The word noodle in this history covers three different tricks: wheat held together by gluten, rice or bean starch set by heat, and dough fried so that water can rush back in."
+  ],
+  "sources": [
+    {
+      "title": "4,000-Year-Old Noodles Found in China",
+      "publisher": "National Geographic",
+      "url": "https://www.nationalgeographic.com/history/article/4-000-year-old-noodles-found-in-china"
+    },
+    {
+      "title": "Lu Houyuan and others, 'Millet noodles in Late Neolithic China', Nature 437, 967–968 (13 October 2005)",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/437967a"
+    },
+    {
+      "title": "Lajia",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lajia"
+    },
+    {
+      "title": "Wei Ge, Li Liu, Xingcan Chen and Zhengyao Jin, 'Can noodles be made from millet?', Archaeometry 53(1), 194–204 (2011)",
+      "publisher": "University of Science and Technology of China, Archaeometry Laboratory",
+      "url": "https://archlab.ustc.edu.cn/2011/0119/c1958a12024/page.htm"
+    },
+    {
+      "title": "Noodle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Noodle"
+    },
+    {
+      "title": "Chinese noodles",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chinese_noodles"
+    },
+    {
+      "title": "Bing (bread)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bing_(bread)"
+    },
+    {
+      "title": "The Long History of the Noodle (on Shu Xi's 'Ode to Bing', from The Land of the Five Flavors)",
+      "publisher": "Columbia University Press Blog",
+      "url": "https://cupblog.org/2013/12/05/the-long-history-of-the-noodle-plus-a-dumpling-recipe-via-the-land-of-the-five-flavors/"
+    },
+    {
+      "title": "Idiyappam",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Idiyappam"
+    },
+    {
+      "title": "Rice noodles",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rice_noodles"
+    },
+    {
+      "title": "Pasta",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pasta"
+    },
+    {
+      "title": "How pasta became the food of the people in Naples",
+      "publisher": "National Geographic History",
+      "url": "https://www.nationalgeographic.com/history/history-magazine/article/daily-life-pasta-italy-neapolitan-diet"
+    },
+    {
+      "title": "From Marco Polo's spaghetti to risotto alla Milanese: myths about food",
+      "publisher": "Gambero Rosso International",
+      "url": "https://www.gamberorossointernational.com/news/from-marco-polos-spaghetti-to-risotto-alla-milanese-myths-and-fake-news-about-food-that-have-been-circulating-for-centuries"
+    },
+    {
+      "title": "Naples: From Leaf-eaters to Pasta-eaters",
+      "publisher": "Emory University, Noodle Narratives",
+      "url": "https://scholarblogs.emory.edu/noodlenarratives/?p=1377"
+    },
+    {
+      "title": "Falooda",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Falooda"
+    },
+    {
+      "title": "Faloodeh",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Faloodeh"
+    },
+    {
+      "title": "Achipur and India's First Chinese Settler",
+      "publisher": "Live History India",
+      "url": "https://livehistoryindia.com/story/living-culture/achipur-indias-first-chinese-settler"
+    },
+    {
+      "title": "Indian Chinese cuisine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indian_Chinese_cuisine"
+    },
+    {
+      "title": "Eau Chew: India's oldest family-run Chinese restaurant, dating back to the 1920s",
+      "publisher": "Curly Tales",
+      "url": "https://curlytales.com/eau-chew-kolkata-indias-oldest-family-run-chinese-restaurant-dating-back-to-the-1920s/amp/"
+    },
+    {
+      "title": "Nelson Wang",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nelson_Wang"
+    },
+    {
+      "title": "Buitoni",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Buitoni"
+    },
+    {
+      "title": "Giovanni Buitoni",
+      "publisher": "Politecnico di Milano, Transatlantic Transfers",
+      "url": "https://transatlantictransfers.polimi.it/en/atlas/354/giovanni-buitoni/"
+    },
+    {
+      "title": "Our history",
+      "publisher": "De Cecco",
+      "url": "https://www.dececco.com/us_us/our-history/"
+    },
+    {
+      "title": "De Cecco",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/De_Cecco"
+    },
+    {
+      "title": "Barilla (company)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Barilla_(company)"
+    },
+    {
+      "title": "Ramen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "title": "Lanzhou beef noodle soup",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lanzhou_beef_noodle_soup"
+    },
+    {
+      "title": "History",
+      "publisher": "Nissin Foods Group",
+      "url": "https://www.nissin.com/en_jp/about/history/"
+    },
+    {
+      "title": "Ando Momofuku: an inventor who used his noodle to change global food culture",
+      "publisher": "Nippon.com",
+      "url": "https://www.nippon.com/en/views/b07206/"
+    },
+    {
+      "title": "Momofuku Ando",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Momofuku_Ando"
+    },
+    {
+      "title": "Instant noodles",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Instant_noodles"
+    },
+    {
+      "title": "Asama-Sanso incident",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Asama-Sans%C5%8D_incident"
+    },
+    {
+      "title": "Indomie",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indomie"
+    },
+    {
+      "title": "Maggi's story: from inception to 40 years on",
+      "publisher": "afaqs!",
+      "url": "https://www.afaqs.com/news/mktg/maggis-story-from-inception-to-40-years-on"
+    },
+    {
+      "title": "The Maggi Brand in India: Brand Extension and Repositioning",
+      "publisher": "ICMR India (IBS Center for Management Research)",
+      "url": "https://icmrindia.org/casestudies/catalogue/Marketing/Maggi%20Brand%20in%20India%20Nestle.htm"
+    },
+    {
+      "title": "How Maggi noodles became an iconic Indian snack (BBC report)",
+      "publisher": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/world/2015/06/04/how-maggi-noodles-became-an-iconic-indian-snack"
+    },
+    {
+      "title": "Chaudhary Group",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chaudhary_Group"
+    },
+    {
+      "title": "Binod Chaudhary",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Binod_Chaudhary"
+    },
+    {
+      "title": "Wai Wai (food brand)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wai_Wai_(food_brand)"
+    },
+    {
+      "title": "Indo Nissin gives Top Ramen a new look",
+      "publisher": "afaqs!",
+      "url": "https://www.afaqs.com/31064_indo-nissin-gives-top-ramen-a-new-look"
+    },
+    {
+      "title": "ITC's Sunfeast YiPPee! 10th anniversary celebrations",
+      "publisher": "BW Marketing World",
+      "url": "https://bwmarketingworld.com/article/itc-ltd%E2%80%99s-sunfeast-yippee%E2%80%99s-10th-anniversary-celebrations-make-a-guinness-world-records%C2%AE-achievement-337131"
+    },
+    {
+      "title": "Japanese Name Noodles Best Invention",
+      "publisher": "ABC News",
+      "url": "https://abcnews.go.com/International/story?id=81946"
+    },
+    {
+      "title": "Our founder: 2005, Space Ram",
+      "publisher": "Nissin Foods (Hong Kong)",
+      "url": "https://www.nissinfoods.com.hk/eng/about-nissin/our-founder/2005"
+    },
+    {
+      "title": "Noguchi Soichi",
+      "publisher": "JAXA, Humans in Space",
+      "url": "https://humans-in-space.jaxa.jp/en/astronaut/noguchi-soichi/"
+    },
+    {
+      "title": "Standard for Instant Noodles, CXS 249-2006 (list of Codex standards)",
+      "publisher": "FAO/WHO Codex Alimentarius",
+      "url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/"
+    },
+    {
+      "title": "Demand Rankings: global demand for instant noodles",
+      "publisher": "World Instant Noodles Association",
+      "url": "https://instantnoodles.org/en/noodles/demand/table/"
+    },
+    {
+      "title": "Vietnam Consumed the 3rd-Most Instant Noodles Globally in 2020 (quoting WINA)",
+      "publisher": "Saigoneer",
+      "url": "https://saigoneer.com/vietnam-news/20505-vietnam-consumed-the-3rd-most-instant-noodles-globally-in-2020"
+    },
+    {
+      "title": "M/s Nestle India Limited v. The Food Safety and Standards Authority of India, Bombay High Court, 13 August 2015",
+      "publisher": "Indian Kanoon",
+      "url": "https://indiankanoon.org/doc/66718388/"
+    },
+    {
+      "title": "High Court decision on MAGGI Noodles in India",
+      "publisher": "Nestlé India",
+      "url": "https://www.nestle.in/media/statements/high-court-decision-on-maggi-noodles-in-india"
+    },
+    {
+      "title": "Maggi noodles safety concerns in India",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maggi_noodles_safety_concerns_in_India"
+    },
+    {
+      "title": "Maggi noodles recall: food inspectors found excess lead",
+      "publisher": "Business Today",
+      "url": "https://www.businesstoday.in/story/maggi-noodles-recall-food-inspectors-found-excess-lead/1/219599.html"
+    },
+    {
+      "title": "Bombay High Court quashes Maggi ban order by FSSAI; orders re-test",
+      "publisher": "LiveLaw",
+      "url": "https://www.livelaw.in/amp/bombay-high-court-quashes-maggi-ban-order-by-fssai-orders-re-test-read-jt"
+    },
+    {
+      "title": "Maggi noodles safe, lab tests clear all samples: Nestle",
+      "publisher": "Moneylife",
+      "url": "https://www.moneylife.in/article/maggi-noodles-safe-lab-tests-clear-all-samples-nestle/43722.html"
+    },
+    {
+      "title": "Nestle relaunches Maggi, partners Snapdeal for online sales",
+      "publisher": "Business Standard (PTI)",
+      "url": "https://www.business-standard.com/article/pti-stories/nestle-relaunches-maggi-partners-snapdeal-for-online-sales-115110900202_1.html"
+    },
+    {
+      "title": "Maggi stocks to be destroyed? SC to decide",
+      "publisher": "LiveLaw",
+      "url": "https://www.livelaw.in/amp/maggi-stocks-destroyed-sc-decide"
+    },
+    {
+      "title": "Nestle India pays Ambuja Cements Rs 20 crore to destroy Maggi noodles",
+      "publisher": "Business Today",
+      "url": "https://www.businesstoday.in/latest/corporate/story/nestle-india-pays-ambuja-cements-rs-20-crore-destroy-maggi-noodles-54101-2015-07-07"
+    },
+    {
+      "title": "Maggi row: SC revives Govt's 640 crore class action suit before NCDRC against Nestle",
+      "publisher": "LiveLaw",
+      "url": "https://www.livelaw.in/amp/top-stories/maggi-row-sc-revives-govts-640cr-class-action-suit-before-ncdrc-against-nestle-141845"
+    },
+    {
+      "title": "India: FSSAI Clarifies Use of Monosodium Glutamate in Noodles and Pasta",
+      "publisher": "USDA Foreign Agricultural Service",
+      "url": "https://www.fas.usda.gov/data/india-fssai-clarifies-use-monosodium-glutamate-noodles-and-pasta"
+    },
+    {
+      "title": "Pyongyang Raengmyon custom",
+      "publisher": "UNESCO Intangible Cultural Heritage",
+      "url": "https://ich.unesco.org/en/RL/pyongyang-raengmyon-custom-01695"
+    }
+  ]
+}
